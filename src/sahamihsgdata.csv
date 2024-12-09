@@ -1,0 +1,941 @@
+1,AALI,Astra Agro Lestari Tbk.,1.924.688.333,Utama
+2,ABBA,Mahaka Media Tbk.,3.935.892.857,Pemantauan Khusus
+3,ABDA,Asuransi Bina Dana Arta Tbk.,620.806.680,Pemantauan Khusus
+4,ABMM,ABM Investama Tbk.,2.753.165.000,Utama
+5,ACES,Aspirasi Hidup Indonesia Tbk.,17.120.389.700,Utama
+6,ACST,Acset Indonusa Tbk.,12.675.160.000,Pengembangan
+7,ADES,Akasha Wira International Tbk.,589.896.800,Pengembangan
+8,ADHI,Adhi Karya (Persero) Tbk.,8.407.608.979,Utama
+9,ADMF,Adira Dinamika Multi Finance T,1.000.000.000,Pengembangan
+10,ADMG,Polychem Indonesia Tbk,3.889.179.559,Pengembangan
+11,ADRO,Alamtri Resources Indonesia Tb,30.758.665.900,Utama
+12,AGII,Samator Indo Gas Tbk.,3.066.660.000,Pengembangan
+13,AGRO,Bank Raya Indonesia Tbk.,24.493.093.216,Utama
+14,AGRS,Bank IBK Indonesia Tbk.,47.367.057.874,Pengembangan
+15,AHAP,Asuransi Harta Aman Pratama Tb,4.900.000.000,Pengembangan
+16,AIMS,Artha Mahiya Investama Tbk.,220.000.000,Pengembangan
+17,AISA,FKS Food Sejahtera Tbk.,9.311.800.000,Utama
+18,AKKU,Anugerah Kagum Karya Utama Tbk,6.449.463.636,Pemantauan Khusus
+19,AKPI,Argha Karya Prima Industry Tbk,612.248.000,Pengembangan
+20,AKRA,AKR Corporindo Tbk.,20.073.474.600,Utama
+21,AKSI,Mineral Sumberdaya Mandiri Tbk,720.000.000,Pengembangan
+22,ALDO,Alkindo Naratama Tbk.,2.700.713.744,Pengembangan
+23,ALKA,Alakasa Industrindo Tbk,507.665.055,Pengembangan
+24,ALMI,Alumindo Light Metal Industry ,3.816.000.000,Pemantauan Khusus
+25,ALTO,Tri Banyan Tirta Tbk.,2.191.870.558,Pemantauan Khusus
+26,AMAG,Asuransi Multi Artha Guna Tbk.,5.001.552.516,Pengembangan
+27,AMFG,Asahimas Flat Glass Tbk.,434.000.000,Utama
+28,AMIN,Ateliers Mecaniques D Indonesi,1.080.000.000,Pengembangan
+29,AMRT,Sumber Alfaria Trijaya Tbk.,41.524.501.700,Utama
+30,ANJT,Austindo Nusantara Jaya Tbk.,3.354.175.000,Pengembangan
+31,ANTM,Aneka Tambang Tbk.,24.030.764.725,Utama
+32,APEX,Apexindo Pratama Duta Tbk.,3.546.466.661,Pengembangan
+33,APIC,Pacific Strategic Financial Tb,11.766.313.488,Pengembangan
+34,APII,Arita Prima Indonesia Tbk.,1.075.760.000,Pengembangan
+35,APLI,Asiaplast Industries Tbk.,1.362.671.400,Pengembangan
+36,APLN,Agung Podomoro Land Tbk.,22.699.326.779,Utama
+37,ARGO,Argo Pantes Tbk,3.174.339.029,Pengembangan
+38,ARII,Atlas Resources Tbk.,3.431.000.000,Pengembangan
+39,ARNA,Arwana Citramulia Tbk.,7.341.430.976,Utama
+40,ARTA,Arthavest Tbk,446.674.175,Pemantauan Khusus
+41,ARTI,Ratu Prabu Energi Tbk,7.840.000.000,Pemantauan Khusus
+42,ARTO,Bank Jago Tbk.,13.718.448.700,Utama
+43,ASBI,Asuransi Bintang Tbk.,348.386.472,Pengembangan
+44,ASDM,Asuransi Dayin Mitra Tbk.,384.000.000,Pengembangan
+45,ASGR,Astra Graphia Tbk.,1.348.780.500,Utama
+46,ASII,Astra International Tbk.,40.483.553.140,Utama
+47,ASJT,Asuransi Jasa Tania Tbk.,1.400.000.000,Pengembangan
+48,ASMI,Asuransi Maximus Graha Persada,8.958.380.460,Pemantauan Khusus
+49,ASRI,Alam Sutera Realty Tbk.,19.649.411.888,Utama
+50,ASRM,Asuransi Ramayana Tbk.,1.217.135.360,Pengembangan
+51,ASSA,Adi Sarana Armada Tbk.,3.691.137.517,Utama
+52,ATIC,Anabatic Technologies Tbk.,2.315.361.355,Pengembangan
+53,AUTO,Astra Otoparts Tbk.,4.819.733.000,Utama
+54,BABP,Bank MNC Internasional Tbk.,44.014.333.126,Pengembangan
+55,BACA,Bank Capital Indonesia Tbk.,19.753.494.636,Utama
+56,BAJA,Saranacentral Bajatama Tbk.,1.800.000.000,Pengembangan
+57,BALI,Bali Towerindo Sentra Tbk.,3.934.592.500,Utama
+58,BAPA,Bekasi Asri Pemula Tbk.,661.784.520,Pengembangan
+59,BATA,Sepatu Bata Tbk.,1.300.000.000,Pengembangan
+60,BAYU,Bayu Buana Tbk,353.220.780,Pengembangan
+61,BBCA,Bank Central Asia Tbk.,122.042.299.500,Utama
+62,BBHI,Allo Bank Indonesia Tbk.,21.512.953.877,Utama
+63,BBKP,Bank KB Bukopin Tbk.,185.819.884.852,Utama
+64,BBLD,Buana Finance Tbk.,1.645.796.054,Pengembangan
+65,BBMD,Bank Mestika Dharma Tbk.,4.049.189.100,Pengembangan
+66,BBNI,Bank Negara Indonesia (Persero,36.924.339.786,Utama
+67,BBRI,Bank Rakyat Indonesia (Persero,150.043.411.587,Utama
+68,BBRM,Pelayaran Nasional Bina Buana ,8.479.490.328,Pengembangan
+69,BBTN,Bank Tabungan Negara (Persero),13.894.099.969,Utama
+70,BBYB,Bank Neo Commerce Tbk.,13.216.977.523,Utama
+71,BCAP,MNC Kapital Indonesia Tbk.,42.618.850.927,Utama
+72,BCIC,Bank JTrust Indonesia Tbk.,17.926.071.041,Pengembangan
+73,BCIP,Bumi Citra Permai Tbk.,1.429.915.525,Pengembangan
+74,BDMN,Bank Danamon Indonesia Tbk.,9.675.817.341,Utama
+75,BEKS,Bank Pembangunan Daerah Banten,51.351.733.883,Pemantauan Khusus
+76,BEST,Bekasi Fajar Industrial Estate,9.647.311.150,Utama
+77,BFIN,BFI Finance  Indonesia Tbk.,15.967.115.620,Utama
+78,BGTG,Bank Ganesha Tbk.,23.731.287.132,Pengembangan
+79,BHIT,MNC Asia Holding Tbk.,86.068.156.705,Pemantauan Khusus
+80,BIKA,Binakarya Jaya Abadi Tbk.,592.280.000,Pemantauan Khusus
+81,BIMA,Primarindo Asia Infrastructure,608.175.716,Pengembangan
+82,BINA,Bank Ina Perdana Tbk.,6.073.369.498,Utama
+83,BIPI,Astrindo Nusantara Infrastrukt,63.710.196.917,Pengembangan
+84,BIPP,Bhuwanatala Indah Permai Tbk.,5.028.669.376,Pemantauan Khusus
+85,BIRD,Blue Bird Tbk.,2.502.100.000,Utama
+86,BISI,BISI International Tbk.,3.000.000.000,Utama
+87,BJBR,Bank Pembangunan Daerah Jawa B,10.416.229.249,Utama
+88,BJTM,Bank Pembangunan Daerah Jawa T,14.865.343.101,Utama
+89,BKDP,Bukit Darmo Property Tbk,7.513.992.252,Pemantauan Khusus
+90,BKSL,Sentul City Tbk.,167.708.902.705,Pemantauan Khusus
+91,BKSW,Bank QNB Indonesia Tbk.,34.806.467.881,Pengembangan
+92,BLTA,Berlian Laju Tanker Tbk,25.940.187.103,Pemantauan Khusus
+93,BLTZ,Graha Layar Prima Tbk.,873.937.142,Pemantauan Khusus
+94,BMAS,Bank Maspion Indonesia Tbk.,17.921.635.680,Pemantauan Khusus
+95,BMRI,Bank Mandiri (Persero) Tbk.,92.399.999.996,Utama
+96,BMSR,Bintang Mitra Semestaraya Tbk,1.159.200.024,Pengembangan
+97,BMTR,Global Mediacom Tbk.,16.583.997.586,Utama
+98,BNBA,Bank Bumi Arta Tbk.,3.354.120.000,Pengembangan
+99,BNBR,Bakrie & Brothers Tbk,160.057.457.509,Pemantauan Khusus
+100,BNGA,Bank CIMB Niaga Tbk.,24.890.783.784,Utama
+101,BNII,Bank Maybank Indonesia Tbk.,75.357.433.911,Utama
+102,BNLI,Bank Permata Tbk.,35.819.545.925,Pengembangan
+103,BOLT,Garuda Metalindo Tbk.,2.343.750.000,Pengembangan
+104,BPFI,Woori Finance Indonesia Tbk.,2.673.995.362,Pengembangan
+105,BPII,Batavia Prosperindo Internasio,10.309.973.240,Pengembangan
+106,BRAM,Indo Kordsa Tbk.,450.056.980,Pengembangan
+107,BRMS,Bumi Resources Minerals Tbk.,141.784.040.338,Utama
+108,BRNA,Berlina Tbk.,979.110.000,Pemantauan Khusus
+109,BRPT,Barito Pacific Tbk.,93.747.218.044,Utama
+110,BSDE,Bumi Serpong Damai Tbk.,21.171.365.812,Utama
+111,BSIM,Bank Sinarmas Tbk.,19.517.921.842,Utama
+112,BSSR,Baramulti Suksessarana Tbk.,2.616.500.000,Pengembangan
+113,BSWD,Bank Of India Indonesia Tbk.,3.651.978.177,Pemantauan Khusus
+114,BTEK,Bumi Teknokultura Unggul Tbk,46.277.496.376,Pemantauan Khusus
+115,BTEL,Bakrie Telecom Tbk.,36.822.665.755,Pemantauan Khusus
+116,BTON,Betonjaya Manunggal Tbk.,720.000.000,Pengembangan
+117,BTPN,Bank SMBC Indonesia Tbk.,10.536.203.690,Utama
+118,BUDI,Budi Starch & Sweetener Tbk.,4.498.997.362,Utama
+119,BUKK,Bukaka Teknik Utama Tbk.,2.640.452.000,Pengembangan
+120,BULL,Buana Lintas Lautan Tbk.,14.117.801.449,Pengembangan
+121,BUMI,Bumi Resources Tbk.,371.322.136.553,Utama
+122,BUVA,Bukit Uluwatu Villa Tbk.,20.590.473.213,Pengembangan
+123,BVIC,Bank Victoria International Tb,15.690.050.343,Utama
+124,BWPT,Eagle High Plantations Tbk.,31.525.291.000,Utama
+125,BYAN,Bayan Resources Tbk.,33.333.335.000,Utama
+126,CANI,Capitol Nusantara Indonesia Tb,833.440.000,Pemantauan Khusus
+127,CASS,Cardig Aero Services Tbk.,2.086.950.000,Utama
+128,CEKA,Wilmar Cahaya Indonesia Tbk.,595.000.000,Pengembangan
+129,CENT,Centratama Telekomunikasi Indo,31.183.464.900,Pemantauan Khusus
+130,CFIN,Clipan Finance Indonesia Tbk.,3.984.520.457,Utama
+131,CINT,Chitose Internasional Tbk.,1.000.000.000,Pengembangan
+132,CITA,Cita Mineral Investindo Tbk.,3.960.361.250,Pengembangan
+133,CLPI,Colorpak Indonesia Tbk.,306.338.500,Pengembangan
+134,CMNP,Citra Marga Nusaphala Persada ,5.437.498.079,Utama
+135,CMPP,AirAsia Indonesia Tbk.,10.685.124.441,Pemantauan Khusus
+136,CNKO,Exploitasi Energi Indonesia Tb,8.956.361.206,Pemantauan Khusus
+137,CNTX,Century Textile Industry Tbk.,70.000.000,Pemantauan Khusus
+138,COWL,Cowell Development Tbk.,4.871.214.021,Pemantauan Khusus
+139,CPIN,Charoen Pokphand Indonesia Tbk,16.398.000.000,Utama
+140,CPRO,Central Proteina Prima Tbk.,59.572.382.787,Pengembangan
+141,CSAP,Catur Sentosa Adiprana Tbk.,5.683.175.151,Pengembangan
+142,CTBN,Citra Tubindo Tbk.,800.371.500,Pemantauan Khusus
+143,CTRA,Ciputra Development Tbk.,18.535.695.255,Utama
+144,CTTH,Citatah Tbk.,1.230.839.821,Pemantauan Khusus
+145,DART,Duta Anggada Realty Tbk.,3.141.390.962,Pengembangan
+146,DEFI,Danasupra Erapacific Tbk.,687.266.666,Pemantauan Khusus
+147,DEWA,Darma Henwa Tbk,21.853.733.792,Utama
+148,DGIK,Nusa Konstruksi Enjiniring Tbk,5.541.165.000,Pengembangan
+149,DILD,Intiland Development Tbk.,10.365.854.185,Utama
+150,DKFT,Central Omega Resources Tbk.,5.638.246.600,Pengembangan
+151,DLTA,Delta Djakarta Tbk.,800.659.050,Utama
+152,DMAS,Puradelta Lestari Tbk.,48.198.111.100,Utama
+153,DNAR,Bank Oke Indonesia Tbk.,16.867.292.274,Pengembangan
+154,DNET,Indoritel Makmur Internasional,14.184.000.000,Pengembangan
+155,DOID,Delta Dunia Makmur Tbk.,7.651.007.132,Utama
+156,DPNS,Duta Pertiwi Nusantara Tbk.,331.129.952,Pengembangan
+157,DSFI,Dharma Samudera Fishing Indust,1.857.135.500,Pengembangan
+158,DSNG,Dharma Satya Nusantara Tbk.,10.599.842.400,Utama
+159,DSSA,Dian Swastatika Sentosa Tbk,7.705.523.200,Utama
+160,DUTI,Duta Pertiwi Tbk,1.850.000.000,Pemantauan Khusus
+161,DVLA,Darya-Varia Laboratoria Tbk.,1.120.000.000,Pengembangan
+162,DYAN,Dyandra Media International Tb,4.272.964.279,Pengembangan
+163,ECII,Electronic City Indonesia Tbk.,1.334.333.000,Pengembangan
+164,EKAD,Ekadharma International Tbk.,3.493.875.000,Pengembangan
+165,ELSA,Elnusa Tbk.,7.298.500.000,Utama
+166,ELTY,Bakrieland Development Tbk.,43.521.913.019,Pemantauan Khusus
+167,EMDE,Megapolitan Developments Tbk.,3.350.000.000,Pengembangan
+168,EMTK,Elang Mahkota Teknologi Tbk.,61.316.751.483,Utama
+169,ENRG,Energi Mega Persada Tbk.,24.821.230.250,Utama
+170,EPMT,Enseval Putera Megatrading Tbk,2.708.640.000,Pengembangan
+171,ERAA,Erajaya Swasembada Tbk.,15.950.000.000,Utama
+172,ERTX,Eratex Djaja Tbk.,1.286.539.792,Pengembangan
+173,ESSA,ESSA Industries Indonesia Tbk.,17.226.975.700,Utama
+174,ESTI,Ever Shine Tex Tbk.,2.015.208.720,Pemantauan Khusus
+175,ETWA,Eterindo Wahanatama Tbk,4.668.671.400,Pemantauan Khusus
+176,EXCL,XL Axiata Tbk.,13.128.430.665,Utama
+177,FAST,Fast Food Indonesia Tbk.,3.990.277.158,Pengembangan
+178,FASW,Fajar Surya Wisesa Tbk.,2.477.888.787,Pemantauan Khusus
+179,FISH,FKS Multi Agro Tbk.,480.000.000,Pemantauan Khusus
+180,FMII,Fortune Mate Indonesia Tbk,6.400.000.000,Pengembangan
+181,FORU,Fortune Indonesia Tbk,465.224.000,Pengembangan
+182,FPNI,Lotte Chemical Titan Tbk.,5.566.414.000,Pengembangan
+183,FREN,Smartfren Telecom Tbk.,476.703.804.464,Pemantauan Khusus
+184,GAMA,Aksara Global Development Tbk.,10.011.027.656,Pemantauan Khusus
+185,GDST,Gunawan Dianjaya Steel Tbk.,9.242.500.000,Pengembangan
+186,GDYR,Goodyear Indonesia Tbk.,410.000.000,Pengembangan
+187,GEMA,Gema Grahasarana Tbk.,1.600.000.000,Pengembangan
+188,GEMS,Golden Energy Mines Tbk.,5.882.353.000,Utama
+189,GGRM,Gudang Garam Tbk.,1.924.088.000,Utama
+190,GIAA,Garuda Indonesia (Persero) Tbk,91.480.783.837,Pemantauan Khusus
+191,GJTL,Gajah Tunggal Tbk.,3.484.800.000,Utama
+192,GLOB,Globe Kita Terang Tbk.,1.111.112.000,Pemantauan Khusus
+193,GMTD,Gowa Makassar Tourism Developm,1.015.380.000,Pengembangan
+194,GOLD,Visi Telekomunikasi Infrastruk,1.277.276.000,Pengembangan
+195,GOLL,Golden Plantation Tbk.,3.665.000.759,Pemantauan Khusus
+196,GPRA,Perdana Gapuraprima Tbk.,4.276.655.336,Pengembangan
+197,GSMF,Equity Development Investment ,14.230.399.705,Pengembangan
+198,GTBO,Garda Tujuh Buana Tbk,2.500.000.000,Pengembangan
+199,GWSA,Greenwood Sejahtera Tbk.,7.800.760.000,Utama
+200,GZCO,Gozco Plantations Tbk.,6.000.000.000,Pengembangan
+201,HADE,Himalaya Energi Perkasa Tbk.,2.120.000.000,Pemantauan Khusus
+202,HDFA,Radana Bhaskara Finance Tbk.,6.542.445.783,Pengembangan
+203,HDTX,Panasia Indo Resources Tbk.,3.601.462.800,Pemantauan Khusus
+204,HERO,Hero Supermarket Tbk.,4.183.634.000,Pengembangan
+205,HEXA,Hexindo Adiperkasa Tbk.,840.000.000,Utama
+206,HITS,Humpuss Intermoda Transportasi,7.101.084.801,Utama
+207,HMSP,H.M. Sampoerna Tbk.,116.318.076.900,Pengembangan
+208,HOME,Hotel Mandarine Regency Tbk.,22.212.194.782,Pemantauan Khusus
+209,HOTL,Saraswati Griya Lestari Tbk.,3.550.001.452,Pemantauan Khusus
+210,HRUM,Harum Energy Tbk.,13.518.100.000,Utama
+211,IATA,MNC Energy Investments Tbk.,25.238.245.486,Pemantauan Khusus
+212,IBFN,Intan Baru Prana Tbk.,1.517.332.349,Pemantauan Khusus
+213,IBST,Inti Bangun Sejahtera Tbk.,1.350.904.927,Pemantauan Khusus
+214,ICBP,Indofood CBP Sukses Makmur Tbk,11.661.908.000,Utama
+215,ICON,Island Concepts Indonesia Tbk.,1.089.750.000,Pemantauan Khusus
+216,IGAR,Champion Pacific Indonesia Tbk,972.204.500,Pengembangan
+217,IIKP,Inti Agri Resources Tbk,33.600.000.000,Pemantauan Khusus
+218,IKAI,Intikeramik Alamasri Industri ,13.305.799.387,Pemantauan Khusus
+219,IKBI,Sumi Indo Kabel Tbk.,1.224.000.000,Pengembangan
+220,IMAS,Indomobil Sukses Internasional,3.994.291.039,Utama
+221,IMJS,Indomobil Multi Jasa Tbk.,8.654.325.000,Pengembangan
+222,IMPC,Impack Pratama Industri Tbk.,54.268.500.000,Utama
+223,INAF,Indofarma Tbk.,3.099.267.500,Pemantauan Khusus
+224,INAI,Indal Aluminium Industry Tbk.,633.600.000,Pengembangan
+225,INCI,Intanwijaya Internasional Tbk,207.656.617,Pengembangan
+226,INCO,Vale Indonesia Tbk.,10.539.784.534,Utama
+227,INDF,Indofood Sukses Makmur Tbk.,8.780.426.500,Utama
+228,INDR,Indo-Rama Synthetics Tbk.,654.351.707,Pengembangan
+229,INDS,Indospring Tbk.,6.562.497.100,Pengembangan
+230,INDX,Tanah Laut Tbk,437.913.588,Pengembangan
+231,INDY,Indika Energy Tbk.,5.210.192.000,Utama
+232,INKP,Indah Kiat Pulp & Paper Tbk.,5.470.982.941,Utama
+233,INPC,Bank Artha Graha Internasional,20.021.178.779,Utama
+234,INPP,Indonesian Paradise Property T,11.181.971.732,Pengembangan
+235,INRU,Toba Pulp Lestari Tbk.,1.388.883.283,Pengembangan
+236,INTA,Intraco Penta Tbk.,3.343.935.022,Pemantauan Khusus
+237,INTD,Inter Delta Tbk,591.828.000,Pengembangan
+238,INTP,Indocement Tunggal Prakarsa Tb,3.681.231.699,Utama
+239,JIHD,Jakarta International Hotels &,2.329.040.482,Pemantauan Khusus
+240,JKON,Jaya Konstruksi Manggala Prata,16.308.519.860,Utama
+241,JKSW,Jakarta Kyoei Steel Works Tbk.,150.000.000,Pemantauan Khusus
+242,JPFA,Japfa Comfeed Indonesia Tbk.,11.726.575.201,Utama
+243,JRPT,Jaya Real Property Tbk.,13.750.000.000,Pengembangan
+244,JSMR,Jasa Marga (Persero) Tbk.,7.257.871.200,Utama
+245,JSPT,Jakarta Setiabudi Internasiona,2.318.736.000,Pengembangan
+246,JTPE,Jasuindo Tiga Perkasa Tbk.,6.852.050.000,Utama
+247,KAEF,Kimia Farma Tbk.,5.566.584.590,Pengembangan
+248,KARW,Meratus Jasa Prima Tbk.,587.152.700,Pemantauan Khusus
+249,KBLI,KMI Wire & Cable Tbk.,4.007.235.107,Utama
+250,KBLM,Kabelindo Murni Tbk.,1.120.000.000,Pengembangan
+251,KBLV,First Media Tbk.,1.742.167.907,Pemantauan Khusus
+252,KBRI,Kertas Basuki Rachmat Indonesi,8.687.995.734,Pemantauan Khusus
+253,KDSI,Kedawung Setia Industrial Tbk.,1.620.000.000,Pengembangan
+254,KIAS,Keramika Indonesia Assosiasi T,14.929.100.000,Pemantauan Khusus
+255,KICI,Kedaung Indah Can Tbk,276.000.000,Pengembangan
+256,KIJA,Kawasan Industri Jababeka Tbk.,20.824.888.369,Utama
+257,KKGI,Resource Alam Indonesia Tbk.,5.000.000.000,Utama
+258,KLBF,Kalbe Farma Tbk.,46.875.122.110,Utama
+259,KOBX,Kobexindo Tractors Tbk.,2.272.500.000,Pengembangan
+260,KOIN,Kokoh Inti Arebama Tbk,980.843.732,Pemantauan Khusus
+261,KONI,Perdana Bangun Pusaka Tbk,312.000.000,Pemantauan Khusus
+262,KOPI,Mitra Energi Persada Tbk.,697.266.668,Pengembangan
+263,KPIG,MNC Land Tbk.,97.557.129.263,Pengembangan
+264,KRAH,Grand Kartech Tbk.,971.190.000,Pemantauan Khusus
+265,KRAS,Krakatau Steel (Persero) Tbk.,19.346.396.900,Pengembangan
+266,KREN,Quantum Clovera Investama Tbk.,18.208.470.100,Pemantauan Khusus
+267,LAPD,Leyand International Tbk.,3.966.350.139,Pemantauan Khusus
+268,LCGP,Eureka Prima Jakarta Tbk.,5.630.000.914,Pemantauan Khusus
+269,LEAD,Logindo Samudramakmur Tbk.,5.799.616.328,Pengembangan
+270,LINK,Link Net Tbk.,2.863.195.484,Pengembangan
+271,LION,Lion Metal Works Tbk.,520.160.000,Pemantauan Khusus
+272,LMAS,Limas Indonesia Makmur Tbk,787.851.525,Pemantauan Khusus
+273,LMPI,Langgeng Makmur Industri Tbk.,1.008.517.669,Pengembangan
+274,LMSH,Lionmesh Prima Tbk.,96.000.000,Pemantauan Khusus
+275,LPCK,Lippo Cikarang Tbk,2.679.600.000,Utama
+276,LPGI,Lippo General Insurance Tbk.,3.000.000.000,Pemantauan Khusus
+277,LPIN,Multi Prima Sejahtera Tbk,425.000.000,Pengembangan
+278,LPKR,Lippo Karawaci Tbk.,70.898.018.369,Utama
+279,LPLI,Star Pacific Tbk,1.170.432.803,Pengembangan
+280,LPPF,Matahari Department Store Tbk.,2.259.292.880,Utama
+281,LPPS,Lenox Pasifik Investama Tbk.,2.588.250.000,Pengembangan
+282,LRNA,Eka Sari Lorena Transport Tbk.,350.000.022,Pengembangan
+283,LSIP,PP London Sumatra Indonesia Tb,6.819.963.965,Utama
+284,LTLS,Lautan Luas Tbk.,1.560.000.000,Utama
+285,MAGP,Multi Agro Gemilang Plantation,9.000.000.004,Pemantauan Khusus
+286,MAIN,Malindo Feedmill Tbk.,2.238.750.000,Utama
+287,MAMI,Mas Murni Indonesia Tbk,12.299.317.590,Pemantauan Khusus
+288,MAPI,Mitra Adiperkasa Tbk.,16.600.000.000,Utama
+289,MASA,Multistrada Arah Sarana Tbk.,9.182.946.945,Utama
+290,MAYA,Bank Mayapada Internasional Tb,25.906.179.152,Utama
+291,MBAP,Mitrabara Adiperdana Tbk.,1.227.271.952,Pengembangan
+292,MBSS,Mitrabahtera Segara Sejati Tbk,1.750.026.639,Utama
+293,MBTO,Martina Berto Tbk.,1.070.000.000,Pengembangan
+294,MCOR,Bank China Construction Bank I,37.540.533.209,Utama
+295,MDIA,Intermedia Capital Tbk.,39.215.538.400,Pemantauan Khusus
+296,MDKA,Merdeka Copper Gold Tbk.,24.472.983.771,Utama
+297,MDLN,Modernland Realty Tbk.,12.533.067.322,Utama
+298,MDRN,Modern Internasional Tbk.,7.632.167.798,Pemantauan Khusus
+299,MEDC,Medco Energi Internasional Tbk,25.136.231.252,Utama
+300,MEGA,Bank Mega Tbk.,11.623.514.905,Utama
+301,MERK,Merck Tbk.,448.000.000,Pengembangan
+302,META,Nusantara Infrastructure Tbk.,17.710.708.194,Pemantauan Khusus
+303,MFIN,Mandala Multifinance Tbk.,2.650.000.000,Utama
+304,MFMI,Multifiling Mitra Indonesia Tb,757.581.000,Pemantauan Khusus
+305,MGNA,Magna Investama Mandiri Tbk.,3.410.477.164,Pemantauan Khusus
+306,MICE,Multi Indocitra Tbk.,600.000.000,Pengembangan
+307,MIDI,Midi Utama Indonesia Tbk.,33.435.294.800,Utama
+308,MIKA,Mitra Keluarga Karyasehat Tbk.,13.907.481.500,Utama
+309,MIRA,Mitra International Resources ,3.961.452.039,Pemantauan Khusus
+310,MITI,Mitra Investindo Tbk.,3.540.735.503,Pengembangan
+311,MKPI,Metropolitan Kentjana Tbk.,948.194.000,Pengembangan
+312,MLBI,Multi Bintang Indonesia Tbk.,2.107.000.000,Utama
+313,MLIA,Mulia Industrindo Tbk,6.615.000.000,Utama
+314,MLPL,Multipolar Tbk.,15.682.323.987,Utama
+315,MLPT,Multipolar Technology Tbk.,1.875.000.000,Pengembangan
+316,MMLP,Mega Manunggal Property Tbk.,6.889.134.608,Utama
+317,MNCN,Media Nusantara Citra Tbk.,15.049.787.710,Utama
+318,MPMX,Mitra Pinasthika Mustika Tbk.,4.462.963.276,Utama
+319,MPPA,Matahari Putra Prima Tbk.,12.966.640.084,Utama
+320,MRAT,Mustika Ratu Tbk.,428.000.000,Pengembangan
+321,MREI,Maskapai Reasuransi Indonesia ,517.791.681,Pengembangan
+322,MSKY,MNC Sky Vision Tbk.,1.994.370.480,Pengembangan
+323,MTDL,Metrodata Electronics Tbk.,12.276.884.585,Utama
+324,MTFN,Capitalinc Investment Tbk.,31.842.082.852,Pemantauan Khusus
+325,MTLA,Metropolitan Land Tbk.,7.655.126.330,Utama
+326,MTSM,Metro Realty Tbk.,232.848.000,Pemantauan Khusus
+327,MYOH,Samindo Resources Tbk.,2.206.312.500,Utama
+328,MYOR,Mayora Indah Tbk.,22.358.699.725,Utama
+329,MYRX,Hanson International Tbk.,86.703.220.792,Pemantauan Khusus
+330,MYTX,Asia Pacific Investama Tbk.,7.747.281.949,Pemantauan Khusus
+331,NELY,Pelayaran Nelly Dwi Putri Tbk.,2.350.000.000,Pengembangan
+332,NIKL,Pelat Timah Nusantara Tbk.,2.523.350.000,Pengembangan
+333,NIPS,Nipress Tbk.,1.635.333.332,Pemantauan Khusus
+334,NIRO,City Retail Developments Tbk.,22.198.871.804,Pengembangan
+335,NISP,Bank OCBC NISP Tbk.,22.715.776.032,Utama
+336,NOBU,Bank Nationalnobu Tbk.,7.403.659.460,Pengembangan
+337,NRCA,Nusa Raya Cipta Tbk.,2.496.258.344,Pengembangan
+338,OCAP,Onix Capital Tbk.,273.200.000,Pemantauan Khusus
+339,OKAS,Ancora Indonesia Resources Tbk,2.373.449.165,Pengembangan
+340,OMRE,Indonesia Prima Property Tbk,2.945.211.000,Pemantauan Khusus
+341,PADI,Minna Padi Investama Sekuritas,11.307.246.524,Pemantauan Khusus
+342,PALM,Provident Investasi Bersama Tb,15.773.797.158,Pengembangan
+343,PANR,Panorama Sentrawisata Tbk.,1.387.500.000,Utama
+344,PANS,Panin Sekuritas Tbk.,720.000.000,Utama
+345,PBRX,Pan Brothers Tbk.,21.482.028.246,Pemantauan Khusus
+346,PDES,Destinasi Tirta Nusantara Tbk,715.000.000,Pengembangan
+347,PEGE,Panca Global Kapital Tbk.,2.833.417.056,Pengembangan
+348,PGAS,Perusahaan Gas Negara Tbk.,24.241.508.196,Utama
+349,PGLI,Pembangunan Graha Lestari Inda,488.000.000,Pengembangan
+350,PICO,Pelangi Indah Canindo Tbk,568.375.000,Pengembangan
+351,PJAA,Pembangunan Jaya Ancol Tbk.,1.599.999.996,Pengembangan
+352,PKPK,Perdana Karya Perkasa Tbk,1.200.000.000,Pengembangan
+353,PLAS,Polaris Investama Tbk,1.184.200.000,Pemantauan Khusus
+354,PLIN,Plaza Indonesia Realty Tbk.,3.550.000.000,Pemantauan Khusus
+355,PNBN,Bank Pan Indonesia Tbk,23.837.645.998,Utama
+356,PNBS,Bank Panin Dubai Syariah Tbk.,38.425.504.906,Pengembangan
+357,PNIN,Paninvest Tbk.,4.068.323.920,Utama
+358,PNLF,Panin Financial Tbk.,32.022.073.293,Utama
+359,PNSE,Pudjiadi & Sons Tbk.,797.813.496,Pengembangan
+360,POLY,Asia Pacific Fibers Tbk,2.495.753.334,Pemantauan Khusus
+361,POOL,Pool Advista Indonesia Tbk.,2.341.366.264,Pemantauan Khusus
+362,PPRO,PP Properti Tbk.,61.675.671.883,Pemantauan Khusus
+363,PRAS,Prima Alloy Steel Universal Tb,701.043.478,Pemantauan Khusus
+364,PSAB,J Resources Asia Pasifik Tbk.,26.460.000.000,Pengembangan
+365,PSDN,Prasidha Aneka Niaga Tbk,1.440.000.000,Pengembangan
+366,PSKT,Red Planet Indonesia Tbk.,10.351.231.636,Pemantauan Khusus
+367,PTBA,Bukit Asam Tbk.,11.520.659.250,Utama
+368,PTIS,Indo Straits Tbk.,550.165.300,Pengembangan
+369,PTPP,PP (Persero) Tbk.,6.199.897.354,Utama
+370,PTRO,Petrosea Tbk.,1.008.605.000,Utama
+371,PTSN,Sat Nusapersada Tbk,5.314.344.000,Pengembangan
+372,PTSP,Pioneerindo Gourmet Internatio,220.808.000,Pengembangan
+373,PUDP,Pudjiadi Prestige Tbk.,659.120.000,Utama
+374,PWON,Pakuwon Jati Tbk.,48.159.602.400,Utama
+375,PYFA,Pyridam Farma Tbk,11.236.680.171,Pengembangan
+376,RAJA,Rukun Raharja Tbk.,4.227.082.500,Utama
+377,RALS,Ramayana Lestari Sentosa Tbk.,7.096.000.000,Utama
+378,RANC,Supra Boga Lestari Tbk.,1.564.487.500,Pengembangan
+379,RBMS,Ristia Bintang Mahkotasejati T,2.656.212.826,Pemantauan Khusus
+380,RDTX,Roda Vivatex Tbk,268.800.000,Pemantauan Khusus
+381,RELI,Reliance Sekuritas Indonesia T,1.800.000.000,Pengembangan
+382,RICY,Ricky Putra Globalindo Tbk,641.717.510,Pengembangan
+383,RIGS,Rig Tenders Indonesia Tbk.,609.130.000,Pengembangan
+384,RIMO,Rimo International Lestari Tbk,45.080.600.000,Pemantauan Khusus
+385,RODA,Pikko Land Development Tbk.,13.592.128.209,Pemantauan Khusus
+386,ROTI,Nippon Indosari Corpindo Tbk.,6.186.488.888,Pengembangan
+387,RUIS,Radiant Utama Interinsco Tbk.,770.000.000,Pengembangan
+388,SAFE,Steady Safe Tbk,615.145.012,Pengembangan
+389,SAME,Sarana Meditama Metropolitan T,17.147.132.545,Utama
+390,SCCO,Supreme Cable Manufacturing & ,822.333.600,Pengembangan
+391,SCMA,Surya Citra Media Tbk.,73.970.569.505,Utama
+392,SCPI,Organon Pharma Indonesia Tbk.,3.600.000,Pengembangan
+393,SDMU,Sidomulyo Selaras Tbk.,1.135.225.000,Pemantauan Khusus
+394,SDPC,Millennium Pharmacon Internati,1.274.000.000,Pengembangan
+395,SDRA,Bank Woori Saudara Indonesia 1,14.545.267.990,Utama
+396,SGRO,Sampoerna Agro Tbk.,1.818.622.000,Utama
+397,SHID,Hotel Sahid Jaya International,1.119.326.168,Pengembangan
+398,SIDO,Industri Jamu dan Farmasi Sido,30.000.000.000,Utama
+399,SILO,Siloam International Hospitals,13.006.125.000,Utama
+400,SIMA,Siwani Makmur Tbk,442.589.871,Pemantauan Khusus
+401,SIMP,Salim Ivomas Pratama Tbk.,15.501.310.000,Utama
+402,SIPD,Sreeya Sewu Indonesia Tbk.,1.839.102.056,Pengembangan
+403,SKBM,Sekar Bumi Tbk.,1.730.103.217,Pengembangan
+404,SKLT,Sekar Laut Tbk.,6.907.405.000,Pengembangan
+405,SKYB,Northcliff Citranusa Indonesia,585.000.000,Pemantauan Khusus
+406,SMAR,Smart Tbk.,2.872.193.366,Pengembangan
+407,SMBR,Semen Baturaja Tbk.,9.932.534.336,Utama
+408,SMCB,Solusi Bangun Indonesia Tbk.,9.019.381.973,Pemantauan Khusus
+409,SMDM,Suryamas Dutamakmur Tbk.,4.772.138.237,Pengembangan
+410,SMDR,Samudera Indonesia  Tbk.,16.375.600.000,Utama
+411,SMGR,Semen Indonesia (Persero) Tbk.,6.751.540.089,Utama
+412,SMMA,Sinarmas Multiartha Tbk.,6.367.664.717,Utama
+413,SMMT,Golden Eagle Energy Tbk.,3.150.000.000,Pemantauan Khusus
+414,SMRA,Summarecon Agung Tbk.,16.508.568.358,Utama
+415,SMRU,SMR Utama Tbk.,12.499.385.782,Pemantauan Khusus
+416,SMSM,Selamat Sempurna Tbk.,5.758.675.440,Utama
+417,SOCI,Soechi Lines Tbk.,7.059.000.000,Utama
+418,SONA,Sona Topas Tourism Industry Tb,662.400.000,Pengembangan
+419,SPMA,Suparma Tbk.,3.154.092.216,Pengembangan
+420,SQMI,Wilton Makmur Indonesia Tbk.,15.537.591.429,Pemantauan Khusus
+421,SRAJ,Sejahteraraya Anugrahjaya Tbk.,12.000.705.445,Utama
+422,SRIL,Sri Rejeki Isman Tbk.,20.452.176.844,Pemantauan Khusus
+423,SRSN,Indo Acidatama Tbk,6.020.000.000,Pengembangan
+424,SRTG,Saratoga Investama Sedaya Tbk.,13.564.835.000,Utama
+425,SSIA,Surya Semesta Internusa Tbk.,4.705.249.440,Utama
+426,SSMS,Sawit Sumbermas Sarana Tbk.,9.525.000.000,Utama
+427,SSTM,Sunson Textile Manufacture Tbk,1.170.909.181,Pemantauan Khusus
+428,STAR,Buana Artha Anugerah Tbk.,4.800.000.602,Pengembangan
+429,STTP,Siantar Top Tbk.,1.310.000.000,Pengembangan
+430,SUGI,Sugih Energy Tbk.,24.811.541.414,Pemantauan Khusus
+431,SULI,SLJ Global Tbk.,5.920.776.836,Pengembangan
+432,SUPR,Solusi Tunas Pratama Tbk.,1.137.579.698,Pemantauan Khusus
+433,TALF,Tunas Alfin Tbk.,1.353.435.000,Pengembangan
+434,TARA,Agung Semesta Sejahtera Tbk.,10.069.645.750,Pemantauan Khusus
+435,TAXI,Express Transindo Utama Tbk.,10.223.647.156,Pemantauan Khusus
+436,TBIG,Tower Bersama Infrastructure T,22.656.999.445,Utama
+437,TBLA,Tunas Baru Lampung Tbk.,6.025.373.372,Utama
+438,TBMS,Tembaga Mulia Semanan Tbk.,734.680.000,Pengembangan
+439,TCID,Mandom Indonesia Tbk.,402.133.334,Pengembangan
+440,TELE,Omni Inovasi Indonesia Tbk.,7.310.929.389,Pemantauan Khusus
+441,TFCO,Tifico Fiber Indonesia Tbk.,4.823.076.400,Pemantauan Khusus
+442,TGKA,Tigaraksa Satria Tbk.,918.492.750,Pengembangan
+443,TIFA,KDB Tifa Finance Tbk.,3.552.213.000,Pemantauan Khusus
+444,TINS,Timah Tbk.,7.447.753.454,Utama
+445,TIRA,Tira Austenite Tbk,588.000.000,Pengembangan
+446,TIRT,Tirta Mahakam Resources Tbk,1.011.774.750,Pemantauan Khusus
+447,TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,3.113.223.570,Utama
+448,TLKM,Telkom Indonesia (Persero) Tbk,99.062.216.600,Utama
+449,TMAS,Temas Tbk.,57.051.500.000,Utama
+450,TMPO,Tempo Intimedia Tbk.,1.058.333.250,Pengembangan
+451,TOBA,TBS Energi Utama Tbk.,8.167.826.970,Utama
+452,TOTL,Total Bangun Persada Tbk.,3.410.000.000,Utama
+453,TOTO,Surya Toto Indonesia Tbk.,10.320.000.000,Pengembangan
+454,TOWR,Sarana Menara Nusantara Tbk.,51.014.625.000,Utama
+455,TPIA,Chandra Asri Pacific Tbk.,86.511.545.092,Pengembangan
+456,TPMA,Trans Power Marine Tbk.,3.507.420.034,Utama
+457,TRAM,Trada Alam Minera Tbk.,49.643.627.934,Pemantauan Khusus
+458,TRIL,Triwira Insanlestari Tbk.,1.200.000.000,Pemantauan Khusus
+459,TRIM,Trimegah Sekuritas Indonesia T,7.109.300.000,Utama
+460,TRIO,Trikomsel Oke Tbk.,26.007.494.645,Pemantauan Khusus
+461,TRIS,Trisula International Tbk.,3.141.443.831,Pengembangan
+462,TRST,Trias Sentosa Tbk.,2.808.000.000,Pengembangan
+463,TRUS,Trust Finance Indonesia Tbk,800.000.000,Pengembangan
+464,TSPC,Tempo Scan Pacific Tbk.,4.509.864.300,Utama
+465,ULTJ,Ultrajaya Milk Industry & Trad,11.553.528.000,Utama
+466,UNIC,Unggul Indah Cahaya Tbk.,383.331.363,Utama
+467,UNIT,Nusantara Inti Corpora Tbk,75.422.200,Pemantauan Khusus
+468,UNSP,Bakrie Sumatera Plantations Tb,2.500.162.344,Pemantauan Khusus
+469,UNTR,United Tractors Tbk.,3.730.135.136,Utama
+470,UNVR,Unilever Indonesia Tbk.,38.150.000.000,Utama
+471,VICO,Victoria Investama Tbk.,15.217.075.658,Pengembangan
+472,VINS,Victoria Insurance Tbk.,1.460.573.616,Pengembangan
+473,VIVA,Visi Media Asia Tbk.,16.464.270.400,Pemantauan Khusus
+474,VOKS,Voksel Electric Tbk.,4.155.602.595,Pengembangan
+475,VRNA,Mizuho Leasing Indonesia Tbk.,5.687.353.997,Pengembangan
+476,WAPO,Wahana Pronatural Tbk.,1.240.923.111,Pengembangan
+477,WEHA,WEHA Transportasi Indonesia Tb,1.460.554.819,Pengembangan
+478,WICO,Wicaksana Overseas Internation,2.393.710.348,Pemantauan Khusus
+479,WIIM,Wismilak Inti Makmur Tbk.,2.099.873.760,Utama
+480,WIKA,Wijaya Karya (Persero) Tbk.,39.873.063.858,Pengembangan
+481,WINS,Wintermar Offshore Marine Tbk.,4.364.837.057,Utama
+482,WOMF,Wahana Ottomitra Multiartha Tb,3.481.481.480,Pengembangan
+483,WSKT,Waskita Karya (Persero) Tbk.,28.806.807.016,Pemantauan Khusus
+484,WTON,Wijaya Karya Beton Tbk.,8.715.466.600,Utama
+485,YPAS,Yanaprima Hastapersada Tbk,668.000.089,Pemantauan Khusus
+486,YULE,Yulie Sekuritas Indonesia Tbk.,1.785.000.000,Pengembangan
+487,ZBRA,Dosni Roha Indonesia Tbk.,2.510.706.263,Pengembangan
+488,SHIP,Sillo Maritime Perdana Tbk.,2.719.790.000,Utama
+489,CASA,Capital Financial Indonesia Tb,54.476.269.803,Pengembangan
+490,DAYA,Duta Intidaya Tbk.,2.420.547.025,Pengembangan
+491,DPUM,Dua Putra Utama Makmur Tbk.,4.175.000.000,Pemantauan Khusus
+492,IDPR,Indonesia Pondasi Raya Tbk.,2.003.000.000,Pengembangan
+493,JGLE,Graha Andrasentra Propertindo ,22.581.909.405,Pemantauan Khusus
+494,KINO,Kino Indonesia Tbk.,1.428.571.500,Pengembangan
+495,MARI,Mahaka Radio Integra Tbk.,5.252.644.000,Pengembangan
+496,MKNT,Mitra Komunikasi Nusantara Tbk,5.500.000.000,Pemantauan Khusus
+497,MTRA,Mitra Pemuda Tbk.,770.000.000,Pemantauan Khusus
+498,PRDA,Prodia Widyahusada Tbk.,937.500.000,Utama
+499,BOGA,Bintang Oto Global Tbk.,3.803.526.210,Pengembangan
+500,BRIS,Bank Syariah Indonesia Tbk.,45.667.877.639,Utama
+501,PORT,Nusantara Pelabuhan Handal Tbk,2.813.941.985,Pengembangan
+502,CARS,Industri dan Perdagangan Bintr,15.000.000.000,Utama
+503,MINA,Sanurhasta Mitra Tbk.,6.562.500.000,Pemantauan Khusus
+504,FORZ,Forza Land Indonesia Tbk.,1.984.009.887,Pemantauan Khusus
+505,CLEO,Sariguna Primatirta Tbk.,12.000.000.000,Utama
+506,TAMU,Pelayaran Tamarin Samudra Tbk.,37.500.000.000,Pemantauan Khusus
+507,CSIS,Cahayasakti Investindo Sukses ,1.307.000.000,Pemantauan Khusus
+508,TGRA,Terregra Asia Energy Tbk.,2.750.000.000,Pemantauan Khusus
+509,FIRE,Alfa Energi Investama Tbk.,1.475.363.179,Pengembangan
+510,TOPS,Totalindo Eka Persada Tbk.,33.330.000.000,Pemantauan Khusus
+511,KMTR,Kirana Megatara Tbk.,8.215.366.379,Pengembangan
+512,ARMY,Armidian Karyatama Tbk.,9.006.250.000,Pemantauan Khusus
+513,MAPB,MAP Boga Adiperkasa Tbk.,2.387.922.900,Pemantauan Khusus
+514,WOOD,Integra Indocabinet Tbk.,6.437.500.000,Utama
+515,HRTA,Hartadinata Abadi Tbk.,4.605.262.400,Utama
+516,MABA,Marga Abhinaya Abadi Tbk.,15.365.229.912,Pemantauan Khusus
+517,HOKI,Buyung Poetra Sembada Tbk.,9.677.752.680,Utama
+518,MPOW,Megapower Makmur Tbk.,816.997.053,Pengembangan
+519,MARK,Mark Dynamics Indonesia Tbk.,3.800.000.310,Utama
+520,NASA,Andalan Perkasa Abadi Tbk.,11.004.929.322,Pemantauan Khusus
+521,MDKI,Emdeki Utama Tbk.,2.530.150.002,Pengembangan
+522,BELL,Trisula Textile Industries Tbk,7.250.000.000,Pengembangan
+523,KIOS,Kioson Komersial Indonesia Tbk,1.075.862.960,Pengembangan
+524,GMFI,Garuda Maintenance Facility Ae,28.233.511.500,Pemantauan Khusus
+525,MTWI,Malacca Trust Wuwungan Insuran,2.924.486.639,Pengembangan
+526,ZINC,Kapuas Prima Coal Tbk.,25.250.000.000,Pemantauan Khusus
+527,MCAS,M Cash Integrasi Tbk.,867.933.300,Utama
+528,PPRE,PP Presisi Tbk.,10.224.271.000,Pengembangan
+529,WEGE,Wijaya Karya Bangunan Gedung T,9.572.000.000,Utama
+530,PSSI,IMC Pelita Logistik Tbk.,5.417.063.153,Utama
+531,MORA,Mora Telematika Indonesia Tbk.,23.646.668.691,Utama
+532,DWGL,Dwi Guna Laksana Tbk.,9.252.820.991,Pengembangan
+533,PBID,Panca Budi Idaman Tbk.,7.500.000.000,Utama
+534,JMAS,Asuransi Jiwa Syariah Jasa Mit,1.000.000.000,Pengembangan
+535,CAMP,Campina Ice Cream Industry Tbk,5.885.000.000,Pengembangan
+536,IPCM,Jasa Armada Indonesia Tbk.,5.284.811.100,Pengembangan
+537,PCAR,Prima Cakrawala Abadi Tbk.,1.166.666.700,Pengembangan
+538,LCKM,LCK Global Kedaton Tbk.,1.000.000.000,Pengembangan
+539,BOSS,Borneo Olah Sarana Sukses Tbk.,1.400.000.000,Pemantauan Khusus
+540,HELI,Jaya Trishindo Tbk.,832.862.387,Pengembangan
+541,JSKY,Sky Energy Indonesia Tbk.,2.032.540.000,Pemantauan Khusus
+542,INPS,Indah Prakasa Sentosa Tbk.,650.000.000,Pengembangan
+543,GHON,Gihon Telekomunikasi Indonesia,550.000.000,Pengembangan
+544,TDPM,Tianrong Chemicals Industry Tb,10.485.050.500,Pemantauan Khusus
+545,DFAM,Dafam Property Indonesia Tbk.,1.899.852.850,Pengembangan
+546,NICK,Charnic Capital Tbk.,651.150.000,Pengembangan
+547,BTPS,Bank BTPN Syariah Tbk.,7.626.663.000,Utama
+548,SPTO,Surya Pertiwi Tbk.,2.700.000.000,Utama
+549,PRIM,Royal Prima Tbk.,3.393.434.905,Pengembangan
+550,HEAL,Medikaloka Hermina Tbk.,15.365.950.000,Utama
+551,TRUK,Guna Timur Raya Tbk.,435.000.000,Pengembangan
+552,PZZA,Sarimelati Kencana Tbk.,3.021.875.000,Pengembangan
+553,TUGU,Asuransi Tugu Pratama Indonesi,3.555.575.600,Utama
+554,MSIN,MNC Digital Entertainment Tbk.,60.676.178.205,Utama
+555,SWAT,Sriwahana Adityakarta Tbk.,3.019.200.000,Pemantauan Khusus
+556,KPAL,Steadfast Marine Tbk.,1.069.009.400,Pemantauan Khusus
+557,TNCA,Trimuda Nuansa Citra Tbk.,421.640.000,Pengembangan
+558,MAPA,Map Aktif Adiperkasa Tbk.,28.504.000.000,Utama
+559,TCPI,Transcoal Pacific Tbk.,5.000.000.000,Pengembangan
+560,IPCC,Indonesia Kendaraan Terminal T,1.818.384.820,Utama
+561,RISE,Jaya Sukses Makmur Sentosa Tbk,10.945.000.000,Pengembangan
+562,BPTR,Batavia Prosperindo Trans Tbk.,3.534.000.000,Pengembangan
+563,POLL,Pollux Properties Indonesia Tb,8.318.823.600,Pengembangan
+564,NFCX,NFC Indonesia Tbk.,666.667.500,Pengembangan
+565,MGRO,Mahkota Group Tbk.,3.554.445.700,Pengembangan
+566,NUSA,Sinergi Megah Internusa Tbk.,7.700.000.148,Pemantauan Khusus
+567,FILM,MD Entertainment Tbk.,9.897.787.962,Utama
+568,ANDI,Andira Agro Tbk.,9.350.000.000,Pemantauan Khusus
+569,LAND,Trimitra Propertindo Tbk.,2.792.620.000,Pemantauan Khusus
+570,MOLI,Madusari Murni Indah Tbk.,2.724.036.581,Pengembangan
+571,PANI,Pantai Indah Kapuk Dua Tbk.,16.883.595.500,Pengembangan
+572,DIGI,Arkadia Digital Media Tbk.,1.625.000.000,Pemantauan Khusus
+573,CITY,Natura City Developments Tbk.,5.405.188.966,Pengembangan
+574,SAPX,Satria Antaran Prima Tbk.,833.333.300,Pengembangan
+575,KPAS,Cottonindo Ariesta Tbk.,768.043.253,Pemantauan Khusus
+576,SURE,Super Energy Tbk.,1.497.576.771,Pengembangan
+577,HKMU,HK Metals Utama Tbk.,3.221.750.000,Pemantauan Khusus
+578,MPRO,Maha Properti Indonesia Tbk.,9.942.500.000,Pengembangan
+579,DUCK,Jaya Bersama Indo Tbk.,1.283.330.000,Pemantauan Khusus
+580,GOOD,Garudafood Putra Putri Jaya Tb,36.897.901.455,Utama
+581,SKRN,Superkrane Mitra Utama Tbk.,7.500.000.000,Pengembangan
+582,YELO,Yelooo Integra Datanet Tbk.,1.912.774.405,Pemantauan Khusus
+583,CAKK,Cahayaputra Asa Keramik Tbk.,1.203.300.219,Pengembangan
+584,SATU,Kota Satu Properti Tbk.,1.375.000.000,Pengembangan
+585,SOSS,Shield On Service Tbk.,799.414.231,Pemantauan Khusus
+586,DEAL,Dewata Freightinternational Tb,1.146.170.959,Pemantauan Khusus
+587,POLA,Pool Advista Finance Tbk.,3.351.075.600,Pemantauan Khusus
+588,DIVA,Distribusi Voucher Nusantara T,1.428.571.400,Pengembangan
+589,LUCK,Sentral Mitra Informatika Tbk.,715.749.640,Pengembangan
+590,URBN,Urban Jakarta Propertindo Tbk.,3.232.122.640,Pengembangan
+591,SOTS,Satria Mega Kencana Tbk.,1.000.003.979,Pengembangan
+592,ZONE,Mega Perintis Tbk.,870.171.478,Pengembangan
+593,PEHA,Phapros Tbk.,840.000.000,Pengembangan
+594,FOOD,Sentra Food Indonesia Tbk.,650.000.000,Pengembangan
+595,BEEF,Estika Tata Tiara Tbk.,7.186.061.591,Pengembangan
+596,POLI,Pollux Hotels Group Tbk.,2.010.526.400,Pemantauan Khusus
+597,CLAY,Citra Putra Realty Tbk.,2.570.000.000,Pemantauan Khusus
+598,NATO,Surya Permata Andalan Tbk.,8.001.111.504,Pengembangan
+599,JAYA,Armada Berjaya Trans Tbk.,798.499.394,Pengembangan
+600,COCO,Wahana Interfood Nusantara Tbk,889.863.981,Pengembangan
+601,MTPS,Meta Epsi Tbk.,2.084.850.829,Pemantauan Khusus
+602,CPRI,Capri Nusa Satu Properti Tbk.,2.433.379.958,Pemantauan Khusus
+603,HRME,Menteng Heritage Realty Tbk.,5.958.750.000,Pemantauan Khusus
+604,POSA,Bliss Properti Indonesia Tbk.,8.388.870.206,Pemantauan Khusus
+605,JAST,Jasnita Telekomindo Tbk.,1.082.575.738,Pemantauan Khusus
+606,FITT,Hotel Fitra International Tbk.,1.304.272.051,Pengembangan
+607,BOLA,Bali Bintang Sejahtera Tbk.,6.000.000.000,Utama
+608,CCSI,Communication Cable Systems In,1.199.999.998,Pengembangan
+609,SFAN,Surya Fajar Capital Tbk.,1.359.934.021,Pengembangan
+610,POLU,Golden Flower Tbk.,750.000.000,Pengembangan
+611,KJEN,Krida Jaringan Nusantara Tbk.,500.000.000,Pengembangan
+612,KAYU,Darmi Bersaudara Tbk.,665.000.000,Pemantauan Khusus
+613,ITIC,Indonesian Tobacco Tbk.,940.720.000,Pengembangan
+614,PAMG,Bima Sakti Pertiwi Tbk.,3.125.000.000,Pengembangan
+615,IPTV,MNC Vision Networks Tbk.,42.197.950.841,Pemantauan Khusus
+616,BLUE,Berkah Prima Perkasa Tbk.,418.000.000,Pengembangan
+617,ENVY,Envy Technologies Indonesia Tb,1.800.000.000,Pemantauan Khusus
+618,EAST,Eastparc Hotel Tbk.,4.126.405.336,Pengembangan
+619,LIFE,MSIG Life Insurance Indonesia ,2.100.000.000,Pengembangan
+620,FUJI,Fuji Finance Indonesia Tbk.,1.300.000.000,Pengembangan
+621,KOTA,DMS Propertindo Tbk.,10.546.185.701,Pemantauan Khusus
+622,INOV,Inocycle Technology Group Tbk.,1.808.221.900,Pengembangan
+623,ARKA,Arkha Jayanti Persada Tbk.,2.000.000.000,Pemantauan Khusus
+624,SMKL,Satyamitra Kemas Lestari Tbk.,3.418.085.290,Pengembangan
+625,HDIT,Hensel Davest Indonesia Tbk.,1.524.680.000,Pemantauan Khusus
+626,KEEN,Kencana Energi Lestari Tbk.,3.666.312.500,Utama
+627,BAPI,Bhakti Agung Propertindo Tbk.,5.591.980.103,Pemantauan Khusus
+628,TFAS,Telefast Indonesia Tbk.,1.666.666.500,Pengembangan
+629,GGRP,Gunung Raja Paksi Tbk.,12.111.376.157,Pemantauan Khusus
+630,OPMS,Optima Prima Metal Sinergi Tbk,1.000.000.000,Pengembangan
+631,NZIA,Nusantara Almazia Tbk.,2.197.540.705,Pengembangan
+632,SLIS,Gaya Abadi Sempurna Tbk.,2.463.335.910,Pengembangan
+633,PURE,Trinitan Metals and Minerals T,1.375.181.505,Pemantauan Khusus
+634,IRRA,Itama Ranoraya Tbk.,1.600.000.000,Pengembangan
+635,DMMX,Digital Mediatama Maxima Tbk.,7.692.307.700,Pengembangan
+636,SINI,Singaraja Putra Tbk.,481.000.000,Pemantauan Khusus
+637,WOWS,Ginting Jaya Energi Tbk.,2.475.720.000,Pemantauan Khusus
+638,ESIP,Sinergi Inti Plastindo Tbk.,1.109.953.847,Pemantauan Khusus
+639,TEBE,Dana Brata Luhur Tbk.,1.285.000.000,Utama
+640,KEJU,Mulia Boga Raya Tbk.,1.500.000.000,Pengembangan
+641,PSGO,Palma Serasih Tbk.,18.850.000.000,Utama
+642,AGAR,Asia Sejahtera Mina Tbk.,1.000.000.000,Pengembangan
+643,IFSH,Ifishdeco Tbk.,2.125.000.000,Pengembangan
+644,REAL,Repower Asia Indonesia Tbk.,6.633.610.151,Pemantauan Khusus
+645,IFII,Indonesia Fibreboard Industry ,9.412.000.000,Pengembangan
+646,PMJS,Putra Mandiri Jembar Tbk.,13.755.600.000,Pengembangan
+647,UCID,Uni-Charm Indonesia Tbk.,4.156.572.300,Utama
+648,GLVA,Galva Technologies Tbk.,1.500.000.000,Pengembangan
+649,PGJO,Tourindo Guide Indonesia Tbk.,772.459.095,Akselerasi
+650,AMAR,Bank Amar Indonesia Tbk.,18.197.283.760,Pengembangan
+651,CSRA,Cisadane Sawit Raya Tbk.,2.050.000.000,Pengembangan
+652,INDO,Royalindo Investa Wijaya Tbk.,4.382.904.690,Pengembangan
+653,AMOR,Ashmore Asset Management Indon,2.222.222.400,Pengembangan
+654,TRIN,Perintis Triniti Properti Tbk.,4.551.457.346,Pengembangan
+655,DMND,Diamond Food Indonesia Tbk.,9.468.359.000,Pemantauan Khusus
+656,PURA,Putra Rajawali Kencana Tbk.,6.301.930.902,Pemantauan Khusus
+657,PTPW,Pratama Widya Tbk.,878.187.500,Pengembangan
+658,TAMA,Lancartama Sejati Tbk.,1.200.000.696,Pemantauan Khusus
+659,IKAN,Era Mandiri Cemerlang Tbk.,833.333.000,Pemantauan Khusus
+660,AYLS,Agro Yasa Lestari Tbk.,853.423.236,Pengembangan
+661,DADA,Diamond Citra Propertindo Tbk.,7.431.530.800,Pemantauan Khusus
+662,ASPI,Andalan Sakti Primaindo Tbk.,681.823.317,Pengembangan
+663,ESTA,Esta Multi Usaha Tbk.,2.425.354.179,Pengembangan
+664,BESS,Batulicin Nusantara Maritim Tb,3.440.455.528,Pengembangan
+665,AMAN,Makmur Berkah Amanda Tbk.,3.873.500.000,Pengembangan
+666,CARE,Metro Healthcare Indonesia Tbk,33.250.000.000,Pengembangan
+667,SAMF,Saraswanti Anugerah Makmur Tbk,5.125.000.000,Utama
+668,SBAT,Sejahtera Bintang Abadi Textil,4.752.982.378,Pemantauan Khusus
+669,KBAG,Karya Bersama Anugerah Tbk.,7.150.002.603,Pemantauan Khusus
+670,CBMF,Cahaya Bintang Medan Tbk.,1.875.000.000,Pemantauan Khusus
+671,RONY,Aesler Grup Internasional Tbk.,1.250.000.000,Pemantauan Khusus
+672,CSMI,Cipta Selera Murni Tbk.,816.061.500,Pemantauan Khusus
+673,BBSS,Bumi Benowo Sukses Sejahtera T,4.800.016.020,Pengembangan
+674,BHAT,Bhakti Multi Artha Tbk.,5.000.000.000,Pengembangan
+675,CASH,Cashlez Worldwide Indonesia Tb,1.431.125.517,Akselerasi
+676,TECH,Indosterling Technomedia Tbk.,1.256.300.000,Pemantauan Khusus
+677,EPAC,Megalestari Epack Sentosaraya ,3.303.400.000,Pemantauan Khusus
+678,UANG,Pakuan Tbk.,1.210.000.000,Pengembangan
+679,PGUN,Pradiksi Gunatama Tbk.,5.737.848.882,Pemantauan Khusus
+680,SOFA,Boston Furniture Industries Tb,1.653.574.499,Akselerasi
+681,PPGL,Prima Globalindo Logistik Tbk.,771.178.020,Akselerasi
+682,TOYS,Sunindo Adipersada Tbk.,1.435.000.712,Pemantauan Khusus
+683,SGER,Sumber Global Energy Tbk.,15.586.909.438,Pengembangan
+684,TRJA,Transkon Jaya Tbk.,1.510.200.000,Pengembangan
+685,PNGO,Pinago Utama Tbk.,781.250.000,Pengembangan
+686,SCNP,Selaras Citra Nusantara Perkas,2.500.000.000,Pengembangan
+687,BBSI,Krom Bank Indonesia Tbk.,3.637.976.068,Pengembangan
+688,KMDS,Kurniamitra Duta Sentosa Tbk.,800.000.000,Pengembangan
+689,PURI,Puri Global Sukses Tbk.,1.000.000.000,Pengembangan
+690,SOHO,Soho Global Health Tbk.,12.691.682.390,Pengembangan
+691,HOMI,Grand House Mulia Tbk.,1.575.000.000,Pengembangan
+692,ROCK,Rockfields Properti Indonesia ,1.435.185.100,Pemantauan Khusus
+693,ENZO,Morenzo Abadi Perkasa Tbk.,2.162.547.122,Pemantauan Khusus
+694,PLAN,Planet Properindo Jaya Tbk.,896.709.596,Akselerasi
+695,PTDU,Djasa Ubersakti Tbk.,1.500.000.000,Pemantauan Khusus
+696,ATAP,Trimitra Prawara Goldland Tbk.,1.250.000.000,Pemantauan Khusus
+697,VICI,Victoria Care Indonesia Tbk.,6.708.000.000,Utama
+698,PMMP,Panca Mitra Multiperdana Tbk.,2.588.300.000,Pengembangan
+699,WIFI,Solusi Sinergi Digital Tbk.,2.359.355.118,Pengembangan
+700,FAPA,FAP Agri Tbk.,3.629.411.800,Pengembangan
+701,DCII,DCI Indonesia Tbk.,2.383.745.900,Pengembangan
+702,KETR,Ketrosden Triasmitra Tbk.,2.841.262.838,Pengembangan
+703,DGNS,Diagnos Laboratorium Utama Tbk,1.250.000.000,Pengembangan
+704,UFOE,Damai Sejahtera Abadi Tbk.,2.287.500.000,Pengembangan
+705,BANK,Bank Aladin Syariah Tbk.,14.621.940.588,Utama
+706,WMUU,Widodo Makmur Unggas Tbk.,12.941.176.500,Pemantauan Khusus
+707,EDGE,Indointernet Tbk.,2.020.250.000,Pengembangan
+708,UNIQ,Ulima Nitra Tbk.,3.138.983.000,Utama
+709,BEBS,Berkah Beton Sadaya Tbk.,45.000.000.000,Pemantauan Khusus
+710,SNLK,Sunter Lakeside Hotel Tbk.,450.000.000,Pengembangan
+711,ZYRX,Zyrexindo Mandiri Buana Tbk.,1.333.334.556,Pengembangan
+712,LFLO,Imago Mulia Persada Tbk.,1.307.734.937,Akselerasi
+713,FIMP,Fimperkasa Utama Tbk.,400.000.975,Pemantauan Khusus
+714,TAPG,Triputra Agro Persada Tbk.,19.852.540.000,Utama
+715,NPGF,Nusa Palapa Gemilang Tbk.,3.240.235.840,Pemantauan Khusus
+716,LUCY,Lima Dua Lima Tiga Tbk.,1.514.773.893,Akselerasi
+717,ADCP,Adhi Commuter Properti Tbk.,22.222.222.200,Pengembangan
+718,HOPE,Harapan Duta Pertiwi Tbk.,2.130.360.203,Pemantauan Khusus
+719,MGLV,Panca Anugrah Wisesa Tbk.,1.904.883.411,Akselerasi
+720,TRUE,Triniti Dinamik Tbk.,7.571.107.860,Pemantauan Khusus
+721,LABA,Green Power Group Tbk.,1.103.402.553,Pengembangan
+722,ARCI,Archi Indonesia Tbk.,24.835.000.000,Pengembangan
+723,IPAC,Era Graharealty Tbk.,949.868.500,Akselerasi
+724,MASB,Bank Multiarta Sentosa Tbk.,1.387.737.233,Pengembangan
+725,BMHS,Bundamedik Tbk.,8.603.416.176,Utama
+726,FLMC,Falmaco Nonwoven Industri Tbk.,781.250.000,Akselerasi
+727,NICL,PAM Mineral Tbk.,10.635.644.907,Pengembangan
+728,UVCR,Trimegah Karya Pratama Tbk.,2.000.144.838,Pengembangan
+729,BUKA,Bukalapak.com Tbk.,103.121.636.167,Ekonomi Baru
+730,HAIS,Hasnur Internasional Shipping ,2.626.250.000,Pengembangan
+731,OILS,Indo Oil Perkasa Tbk.,454.056.563,Pengembangan
+732,GPSO,Geoprima Solusi Tbk.,666.741.103,Pengembangan
+733,MCOL,Prima Andalan Mandiri Tbk.,3.555.560.000,Utama
+734,RSGK,Kedoya Adyaraya Tbk.,929.675.000,Utama
+735,RUNS,Global Sukses Solusi Tbk.,983.557.875,Akselerasi
+736,SBMA,Surya Biru Murni Acetylene Tbk,929.926.282,Pengembangan
+737,CMNT,Cemindo Gemilang Tbk.,17.125.504.000,Utama
+738,GTSI,GTS Internasional Tbk.,15.819.142.767,Pemantauan Khusus
+739,IDEA,Idea Indonesia Akademi Tbk.,1.062.437.500,Akselerasi
+740,KUAS,Ace Oldfields Tbk.,1.292.808.150,Pengembangan
+741,BOBA,Formosa Ingredient Factory Tbk,1.155.750.000,Pengembangan
+742,MTEL,Dayamitra Telekomunikasi Tbk.,83.555.225.944,Utama
+743,DEPO,Caturkarda Depo Bangunan Tbk.,6.790.000.000,Pengembangan
+744,BINO,Perma Plasindo Tbk.,2.275.316.111,Pengembangan
+745,CMRY,Cisarua Mountain Dairy Tbk.,7.934.683.000,Utama
+746,WGSH,Wira Global Solusi Tbk.,1.042.500.000,Akselerasi
+747,TAYS,Jaya Swarasa Agung Tbk.,1.098.920.000,Pengembangan
+748,WMPP,Widodo Makmur Perkasa Tbk.,29.419.000.000,Pemantauan Khusus
+749,RMKE,RMK Energy Tbk.,4.375.000.000,Utama
+750,OBMD,OBM Drilchem Tbk.,805.992.931,Pengembangan
+751,AVIA,Avia Avian Tbk.,61.953.555.600,Utama
+752,IPPE,Indo Pureco Pratama Tbk.,4.600.000.000,Pemantauan Khusus
+753,NASI,Wahana Inti Makmur Tbk.,807.400.000,Pengembangan
+754,BSML,Bintang Samudera Mandiri Lines,1.850.225.000,Pengembangan
+755,DRMA,Dharma Polimetal Tbk.,4.705.882.300,Utama
+756,ADMR,Adaro Minerals Indonesia Tbk.,40.882.331.500,Utama
+757,SEMA,Semacom Integrated Tbk.,1.347.258.842,Pengembangan
+758,ASLC,Autopedia Sukses Lestari Tbk.,12.746.354.780,Pengembangan
+759,NETV,Net Visi Media Tbk.,41.360.517.722,Pemantauan Khusus
+760,BAUT,Mitra Angkasa Sejahtera Tbk.,4.800.139.307,Pemantauan Khusus
+761,ENAK,Champ Resto Indonesia Tbk.,2.166.666.800,Pengembangan
+762,NTBK,Nusatama Berkah Tbk.,2.700.064.877,Pengembangan
+763,SMKM,Sumber Mas Konstruksi Tbk.,1.253.000.000,Akselerasi
+764,STAA,Sumber Tani Agung Resources Tb,10.903.372.600,Utama
+765,NANO,Nanotech Indonesia Global Tbk.,4.285.228.063,Akselerasi
+766,BIKE,Sepeda Bersama Indonesia Tbk.,1.293.916.404,Pengembangan
+767,WIRG,WIR ASIA Tbk.,11.938.622.394,Pengembangan
+768,SICO,Sigma Energy Compressindo Tbk.,910.052.814,Pengembangan
+769,GOTO,GoTo Gojek Tokopedia Tbk.,1.140.573.267.220,Ekonomi Baru
+770,TLDN,Teladan Prima Agro Tbk.,12.946.530.200,Pengembangan
+771,MTMH,Murni Sadar Tbk.,2.068.526.950,Utama
+772,WINR,Winner Nusantara Jaya Tbk.,5.235.293.038,Pemantauan Khusus
+773,IBOS,Indo Boga Sukses Tbk.,8.065.789.529,Akselerasi
+774,OLIV,Oscar Mitra Sukses Sejahtera T,1.900.073.314,Akselerasi
+775,ASHA,Cilacap Samudera Fishing Indus,5.000.000.000,Pemantauan Khusus
+776,SWID,Saraswanti Indoland Developmen,5.385.019.201,Pengembangan
+777,TRGU,Cerestar Indonesia Tbk.,7.945.412.700,Utama
+778,ARKO,Arkora Hydro Tbk.,2.928.495.000,Pengembangan
+779,CHEM,Chemstar Indonesia Tbk.,1.700.014.594,Pengembangan
+780,DEWI,Dewi Shri Farmindo Tbk.,2.000.000.000,Pengembangan
+781,AXIO,Tera Data Indonusa Tbk.,5.840.126.500,Utama
+782,KRYA,Bangun Karya Perkasa Jaya Tbk.,1.663.943.474,Pengembangan
+783,HATM,Habco Trans Maritima Tbk.,7.000.000.000,Utama
+784,RCCC,Utama Radar Cahaya Tbk.,787.500.000,Akselerasi
+785,GULA,Aman Agrindo Tbk.,1.070.362.500,Pengembangan
+786,JARR,Jhonlin Agro Raya Tbk.,9.230.665.050,Utama
+787,AMMS,Agung Menjangan Mas Tbk.,1.200.056.021,Akselerasi
+788,RAFI,Sari Kreasi Boga Tbk.,3.128.140.475,Pemantauan Khusus
+789,KKES,Kusuma Kemindo Sentosa Tbk.,1.500.000.000,Pemantauan Khusus
+790,ELPI,Pelayaran Nasional Ekalya Purn,7.412.000.000,Utama
+791,EURO,Estee Gold Feet Tbk.,2.548.826.428,Akselerasi
+792,KLIN,Klinko Karya Imaji Tbk.,1.307.530.330,Pemantauan Khusus
+793,TOOL,Rohartindo Nusantara Luas Tbk.,2.050.020.320,Pengembangan
+794,BUAH,Segar Kumala Indonesia Tbk.,1.000.000.000,Pengembangan
+795,CRAB,Toba Surimi Industries Tbk.,1.950.000.000,Pengembangan
+796,MEDS,Hetzer Medical Indonesia Tbk.,1.562.500.000,Pengembangan
+797,COAL,Black Diamond Resources Tbk.,6.250.000.000,Pemantauan Khusus
+798,PRAY,Famon Awal Bros Sedaya Tbk.,13.959.422.300,Pengembangan
+799,CBUT,Citra Borneo Utama Tbk.,3.125.000.000,Utama
+800,BELI,Global Digital Niaga Tbk.,128.110.737.143,Ekonomi Baru
+801,MKTR,Menthobi Karyatama Raya Tbk.,12.052.390.422,Utama
+802,OMED,Jayamas Medica Industri Tbk.,27.058.850.000,Utama
+803,BSBK,Wulandari Bangun Laksana Tbk.,25.091.882.375,Utama
+804,PDPP,Primadaya Plastisindo Tbk.,3.061.341.438,Pengembangan
+805,KDTN,Puri Sentul Permai Tbk.,1.250.023.298,Pengembangan
+806,ZATA,Bersama Zatta Jaya Tbk.,8.496.000.000,Pemantauan Khusus
+807,NINE,Techno9 Indonesia Tbk.,2.157.000.000,Akselerasi
+808,MMIX,Multi Medika Internasional Tbk,2.400.206.168,Pengembangan
+809,PADA,Personel Alih Daya Tbk.,3.150.000.000,Pemantauan Khusus
+810,ISAP,Isra Presisi Indonesia Tbk.,4.020.080.927,Akselerasi
+811,VTNY,Venteny Fortuna International ,6.265.193.445,Utama
+812,SOUL,Mitra Tirta Buwana Tbk.,1.082.526.223,Akselerasi
+813,ELIT,Data Sinergitama Jaya Tbk.,2.031.643.057,Pengembangan
+814,BEER,Jobubu Jarum Minahasa Tbk.,4.000.000.000,Pengembangan
+815,CBPE,Citra Buana Prasida Tbk.,1.356.250.000,Pengembangan
+816,SUNI,Sunindo Pratama Tbk.,2.500.000.000,Utama
+817,CBRE,Cakra Buana Resources Energi T,4.538.057.561,Pemantauan Khusus
+818,WINE,Hatten Bali Tbk.,2.710.000.000,Pengembangan
+819,BMBL,Lavender Bina Cendikia Tbk.,1.030.080.995,Akselerasi
+820,PEVE,Penta Valent Tbk.,1.765.625.000,Pengembangan
+821,LAJU,Jasa Berdikari Logistics Tbk.,2.149.942.974,Pengembangan
+822,FWCT,Wijaya Cahaya Timber Tbk.,1.875.000.000,Pengembangan
+823,NAYZ,Hassana Boga Sejahtera Tbk.,2.550.011.472,Akselerasi
+824,IRSX,Aviana Sinar Abadi Tbk.,5.000.351.992,Pemantauan Khusus
+825,PACK,Solusi Kemasan Digital Tbk.,1.539.143.058,Pemantauan Khusus
+826,VAST,Vastland Indonesia Tbk.,3.055.712.543,Pengembangan
+827,CHIP,Pelita Teknologi Global Tbk.,806.000.000,Akselerasi
+828,HALO,Haloni Jane Tbk.,5.650.014.381,Pengembangan
+829,KING,Hoffmen Cleanindo Tbk.,2.600.207.425,Akselerasi
+830,PGEO,Pertamina Geothermal Energy Tb,41.508.024.149,Utama
+831,FUTR,Lini Imaji Kreasi Ekosistem Tb,6.390.108.330,Pemantauan Khusus
+832,HILL,Hillcon Tbk.,2.948.300.000,Utama
+833,BDKR,Berdikari Pondasi Perkasa Tbk.,4.725.101.522,Utama
+834,PTMP,Mitra Pack Tbk.,3.169.200.000,Pengembangan
+835,SAGE,Saptausaha Gemilangindah Tbk.,8.033.267.616,Pemantauan Khusus
+836,TRON,Teknologi Karya Digital Nusa T,2.951.293.160,Pengembangan
+837,CUAN,Petrindo Jaya Kreasi Tbk.,11.241.890.000,Utama
+838,NSSS,Nusantara Sawit Sejahtera Tbk.,23.801.568.645,Pengembangan
+839,GTRA,Grahaprima Suksesmandiri Tbk.,1.894.375.000,Pengembangan
+840,HAJJ,Arsy Buana Travelindo Tbk.,2.290.526.380,Akselerasi
+841,PIPA,Multi Makmur Lemindo Tbk.,3.425.031.863,Pemantauan Khusus
+842,NCKL,Trimegah Bangun Persada Tbk.,63.098.600.000,Utama
+843,MENN,Menn Teknologi Indonesia Tbk.,1.434.052.006,Akselerasi
+844,AWAN,Era Digital Media Tbk.,3.435.000.000,Pengembangan
+845,MBMA,Merdeka Battery Materials Tbk.,107.995.419.900,Pengembangan
+846,RAAM,Tripar Multivision Plus Tbk.,6.813.620.000,Utama
+847,DOOH,Era Media Sejahtera Tbk.,7.737.562.251,Pengembangan
+848,JATI,Informasi Teknologi Indonesia ,3.262.520.106,Pengembangan
+849,TYRE,King Tire Indonesia Tbk.,3.478.044.988,Pengembangan
+850,MPXL,MPX Logistics International Tb,2.000.014.587,Pengembangan
+851,SMIL,Sarana Mitra Luas Tbk.,8.750.159.119,Utama
+852,KLAS,Pelayaran Kurnia Lautan Semest,3.644.415.975,Pengembangan
+853,MAXI,Maxindo Karya Anugerah Tbk.,9.610.063.102,Pengembangan
+854,VKTR,VKTR Teknologi Mobilitas Tbk.,43.750.000.000,Pengembangan
+855,RELF,Graha Mitra Asia Tbk.,5.727.832.195,Akselerasi
+856,AMMN,Amman Mineral Internasional Tb,72.518.217.656,Utama
+857,CRSN,Carsurin Tbk.,2.892.000.000,Pengembangan
+858,GRPM,Graha Prima Mentari Tbk.,1.545.059.559,Akselerasi
+859,WIDI,Widiant Jaya Krenindo Tbk.,1.600.031.683,Akselerasi
+860,TGUK,Platinum Wahab Nusantara Tbk.,3.571.451.815,Pengembangan
+861,INET,Sinergi Inti Andalan Prima Tbk,7.500.065.093,Pengembangan
+862,MAHA,Mandiri Herindo Adiperkasa Tbk,16.666.000.000,Utama
+863,RMKO,Royaltama Mulia Kontraktorindo,1.250.000.000,Pengembangan
+864,CNMA,Nusantara Sejahtera Raya Tbk.,83.345.000.000,Utama
+865,FOLK,Multi Garam Utama Tbk.,3.948.141.464,Pengembangan
+866,HBAT,Minahasa Membangun Hebat Tbk.,1.040.740.800,Akselerasi
+867,GRIA,Ingria Pratama Capitalindo Tbk,7.375.720.674,Pengembangan
+868,PPRI,Paperocks Indonesia Tbk.,1.075.027.288,Pengembangan
+869,ERAL,Sinar Eka Selaras Tbk.,5.187.500.000,Utama
+870,CYBR,ITSEC Asia Tbk.,6.449.584.143,Pengembangan
+871,MUTU,Mutuagung Lestari Tbk.,3.142.881.188,Pengembangan
+872,LMAX,Lupromax Pelumas Indonesia Tbk,650.008.775,Akselerasi
+873,HUMI,Humpuss Maritim Internasional ,18.046.497.883,Utama
+874,MSIE,Multisarana Intan Eduka Tbk.,1.460.007.754,Akselerasi
+875,RSCH,Charlie Hospital Semarang Tbk.,2.650.000.000,Pengembangan
+876,BABY,Multitrend Indo Tbk.,2.616.226.706,Pengembangan
+877,AEGS,Anugerah Spareparts Sejahtera ,1.006.080.721,Akselerasi
+878,IOTF,Sumber Sinergi Makmur Tbk.,5.290.298.067,Pengembangan
+879,KOCI,Kokoh Exa Nusantara Tbk.,4.415.591.800,Pengembangan
+880,PTPS,Pulau Subur Tbk.,2.167.514.856,Pengembangan
+881,BREN,Barito Renewables Energy Tbk.,133.786.220.000,Utama
+882,STRK,Lovina Beach Brewery Tbk.,10.721.835.562,Pengembangan
+883,KOKA,Koka Indonesia Tbk.,2.861.333.000,Pengembangan
+884,LOPI,Logisticsplus International Tb,1.100.011.289,Akselerasi
+885,UDNG,Agro Bahari Nusantara Tbk.,1.750.040.072,Akselerasi
+886,RGAS,Kian Santang Muliatama Tbk.,1.459.234.110,Pengembangan
+887,MSTI,Mastersystem Infotama Tbk.,3.138.878.900,Utama
+888,IKPM,Ikapharmindo Putramas Tbk.,1.684.662.500,Pengembangan
+889,AYAM,Janu Putra Sejahtera Tbk.,4.000.000.000,Pengembangan
+890,SURI,Maja Agung Latexindo Tbk.,6.334.375.000,Pengembangan
+891,ASLI,Asri Karya Lestari Tbk.,6.250.000.000,Pengembangan
+892,CGAS,Citra Nusantara Gemilang Tbk.,1.771.485.574,Pengembangan
+893,NICE,Adhi Kartiko Pratama Tbk.,6.082.020.000,Pengembangan
+894,MSJA,Multi Spunindo Jaya Tbk.,5.882.352.900,Utama
+895,SMLE,Sinergi Multi Lestarindo Tbk.,2.328.136.763,Pengembangan
+896,ACRO,Samcro Hyosung Adilestari Tbk.,3.469.157.288,Pengembangan
+897,MANG,Manggung Polahraya Tbk.,3.812.500.000,Akselerasi
+898,GRPH,Griptha Putra Persada Tbk.,1.000.000.000,Pengembangan
+899,SMGA,Sumber Mineral Global Abadi Tb,8.750.000.000,Pengembangan
+900,UNTD,Terang Dunia Internusa Tbk.,6.666.666.700,Pengembangan
+901,TOSK,Topindo Solusi Komunika Tbk.,4.375.199.253,Pengembangan
+902,MPIX,Mitra Pedagang Indonesia Tbk.,1.562.500.000,Pengembangan
+903,ALII,Ancara Logistics Indonesia Tbk,15.825.800.000,Utama
+904,MKAP,Multikarya Asia Pasifik Raya T,3.250.000.000,Pengembangan
+905,MEJA,Harta Djaya Karya Tbk.,1.917.500.000,Akselerasi
+906,LIVE,Homeco Victoria Makmur Tbk.,4.593.005.014,Pengembangan
+907,HYGN,Ecocare Indo Pasifik Tbk.,2.525.000.000,Pengembangan
+908,BAIK,Bersama Mencapai Puncak Tbk.,1.125.000.000,Pengembangan
+909,VISI,Satu Visi Putra Tbk.,3.075.000.000,Pengembangan
+910,AREA,Dunia Virtual Online Tbk.,2.539.601.000,Pengembangan
+911,MHKI,Multi Hanna Kreasindo Tbk.,3.750.000.000,Pengembangan
+912,ATLA,Atlantis Subsea Indonesia Tbk.,6.199.526.452,Pengembangan
+913,DATA,Remala Abadi Tbk.,1.375.000.000,Pengembangan
+914,SOLA,Xolare RCR Energy Tbk.,3.281.250.000,Pengembangan
+915,BATR,Benteng Api Technic Tbk.,3.025.000.000,Pengembangan
+916,SPRE,Soraya Berjaya Indonesia Tbk.,800.000.000,Akselerasi
+917,PART,Cipta Perdana Lancar Tbk.,2.720.000.000,Pengembangan
+918,GOLF,Intra Golflink Resorts Tbk.,19.486.760.000,Utama
+919,ISEA,Indo American Seafoods Tbk.,1.390.000.000,Pengembangan
+920,BLES,Superior Prima Sukses Tbk.,8.890.206.400,Utama
+921,GUNA,Gunanusa Eramandiri Tbk.,2.500.000.000,Pengembangan
+922,LABS,UBC Medical Indonesia Tbk.,3.950.000.000,Pengembangan
+923,DOSS,Global Sukses Digital Tbk.,1.725.000.000,Pengembangan
+924,NEST,Esta Indonesia Tbk.,4.112.500.000,Pengembangan
+925,PTMR,Master Print Tbk.,1.907.000.000,Pengembangan
+926,VERN,Verona Indah Pictures Tbk.,4.765.525.000,Pengembangan
+927,DAAZ,Daaz Bara Lestari Tbk.,1.997.000.000,Utama
+928,BOAT,Newport Marine Services Tbk.,3.501.680.000,Pengembangan
+929,OASA,Maharaksa Biru Energi Tbk.,6.347.220.000,Pengembangan
+930,POWR,Cikarang Listrindo Tbk.,16.087.156.000,Utama
+931,INCF,Indo Komoditi Korpora Tbk.,1.438.370.465,Pemantauan Khusus
+932,WSBP,Waskita Beton Precast Tbk.,55.085.048.699,Pemantauan Khusus
+933,PBSA,Paramita Bangun Sarana Tbk.,3.000.000.000,Pengembangan
+934,IPOL,Indopoly Swakarsa Industry Tbk,6.443.379.509,Pengembangan
+935,ISAT,Indosat Tbk.,32.250.810.957,Utama
+936,ISSP,Steel Pipe Industry of Indones,7.185.992.035,Utama
+937,ITMA,Sumber Energi Andalan Tbk.,999.053.167,Pengembangan
+938,ITMG,Indo Tambangraya Megah Tbk.,1.129.925.000,Utama
+939,JAWA,Jaya Agra Wattie Tbk.,16.232.951.842,Pengembangan
+940,JECC,Jembo Cable Company Tbk.,756.000.000,Pengembangan
+941,NAIK,Adiwarna Anugerah Abadi Tbk.,3.250.000.000,Pengembangan
